@@ -19,5 +19,6 @@ public class Activity_img extends AppCompatActivity {
         View img_loves;
         love_eff.setTarget(img_loves = findViewById(R.id.img_Loves));
         love_eff.start();
+        //asdasd
     }
 }
