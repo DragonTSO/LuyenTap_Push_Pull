@@ -20,6 +20,6 @@ public class Activity_img extends AppCompatActivity {
         love_eff.setTarget(img_loves = findViewById(R.id.img_Loves));
         love_eff.start();
         //asdassdd
-        //s
+        //sádssssssssssssss
     }
 }
